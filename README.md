@@ -1,6 +1,9 @@
-Use python 3.X
-Use virtual env (pip3 install virtualenv)
-python3 -m virtualenv venv (create venv)
-source venv/bin/activate (activate method for linux)
-venv\Scripts\activate.bat (activate method for Windows)
-pip3 install -r requirements.txt
+## Make Your Own News Notification!
+
+### 1. Used web crawler for a news website.<br>
+- You can customize this part depending on your needs
+
+### 2. Integrated with Line Bot.
+- Document [here](https://developers.line.biz/en/docs/messaging-api/)
+
+### 3. Push news in daily basis, using Flask and cron job
