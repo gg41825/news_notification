@@ -7,3 +7,7 @@
 - Document [here](https://developers.line.biz/en/docs/messaging-api/)
 
 ### 3. Push news in daily basis, using Flask and cron job
+
+
+####  Demo:
+![Ginny Bot Demo](ginnybot_demo.gif)
